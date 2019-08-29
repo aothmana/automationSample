@@ -1,0 +1,21 @@
+{
+  
+  "baseURL": "https://jumpcut.com/",
+  "browser": "chrome",
+  
+
+  "capabilities": {
+    
+  "os": "Windows",
+  "browser": "chrome"
+
+
+   
+    
+  }
+
+ 
+}
+
+
+ 
